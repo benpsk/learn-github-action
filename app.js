@@ -10,3 +10,4 @@ text += x;
 console.log(a);
 
 console.log(language);
+
